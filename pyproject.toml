@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sourcegraph-ros"
+authors = [
+    {name = "Shane Loretz", email = "shane.loretz@gmail.com"},
+]
+description = "Tools for creating search contexts to search ROS code on sourcegraph.com"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+    "requests",
+    "PyYAML",
+]
+dynamic = ["version"]
+
+[project.scripts]
+sourcegraph-ros = "sourcegraph_ros.cli:main"

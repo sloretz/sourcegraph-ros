@@ -1,41 +1,3 @@
-# sourcegraph-ros
-Tools for creating search contexts to search ROS code on sourcegraph.com
-
-## Plan
-
-I want to search released ROS source code.
-
-ros/rosdistro --> ?magic here? --> sourcegraph search context
-
-* `ROS-Rolling-development`: All source entries in ROS Rolling
-
-It's a JSON list of repositories and revisions
-
-```json
-[
-  {
-    "repository": "github.com/ros2/rclcpp",
-    "revisions": ["rolling"]
-  },
-  ...
-]
-```
-
-Reading ros/rosdistro - could use https://github.com/ros-infrastructure/rosdistro , but it takes me a while to relearn it's API :(
-
-
-Testing:
-```
-pipenv install --dev .
-pipenv shell
-```
-
-## Issues
-
-Lots of repositories aren't indexed in the public sourcegraph instance :(
-Some of these are caused by repository renaming (Fast-RTPS -> Fast-DDS is one example).
-
-```
     Cannot find github.com/robosoft-ai/SMACC2 repository.
     Cannot find gitlab.com/autowarefoundation/autoware.auto/acado_vendor repository.
     Cannot find github.com/rudislabs/actuator_msgs repository.
@@ -167,4 +129,3 @@ Some of these are caused by repository renaming (Fast-RTPS -> Fast-DDS is one ex
     Cannot find github.com/ros-planning/warehouse_ros_sqlite repository.
     Cannot find github.com/eclipse-zenoh/zenoh-plugin-dds repository.
     Cannot find github.com/tier4/zmqpp_vendor repository.
-```

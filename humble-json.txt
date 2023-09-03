@@ -1,0 +1,3117 @@
+[
+    {
+        "repository": "gitlab.com/autowarefoundation/autoware.auto/acado_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/ackermann_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/rudislabs/actuator_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/adaptive_component",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/aerostack2/aerostack2",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/affordance_primitives",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/ament_acceleration",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/Timple/ament_black",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ament/ament_cmake",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/ament_cmake_catch2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ament_cmake_ros",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/samsung-ros/ament_download",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ament/ament_index",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ament/ament_lint",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ubuntu-robotics/ament_nodl",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ament/ament_package",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/ament_vitis",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros/angles",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "gitlab.com/ApexAI/apex_containers",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "gitlab.com/ApexAI/apex_test_tools",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/AprilRobotics/apriltag",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/christianrauch/apriltag_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/christianrauch/apriltag_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/fictionlab/ros_aruco_opencv",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/aruco_ros",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/astuff/astuff_sensor_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/fkie/async_web_server_cpp",
+        "revisions": [
+            "ros2-develop"
+        ]
+    },
+    {
+        "repository": "github.com/astuff/automotive_autonomy_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "gitlab.com/autowarefoundation/autoware.auto/autoware_auto_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/astuff/avt_vimba_camera",
+        "revisions": [
+            "ros2_master"
+        ]
+    },
+    {
+        "repository": "github.com/aws-robotics/aws-robomaker-small-warehouse-world",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/wep21/aws_sdk_cpp_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/backward_ros",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/wep21/bag2_to_image",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/BehaviorTree/BehaviorTree.CPP",
+        "revisions": [
+            "v3.8",
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/flynneva/bno055",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros/bond_core",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/boost_geometry_util",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tesseract-robotics/boost_plugin_loader",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/christianrauch/camera_ros",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/cartographer",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/cartographer_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/fmrico/cascade_lifecycle",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ngmor/catch_ros2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros/class_loader",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/classic_bags",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/clearpath_common",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/clearpath_config",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/clearpath_desktop",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/clearpath_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/clearpath_nav2_demos",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/clearpath_simulator",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/color_names-release",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/color_util",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/common_interfaces",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/console_bridge_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/rst-tu-dortmund/control_box_rst",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/control_msgs",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/control_toolbox",
+        "revisions": [
+            "ros2-master"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/cpp_polyfills",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/rt-net/crane_plus",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/iRobotEducation/create3_sim",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/AutonomyLab/create_robot",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/cudnn_cmake_module",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/eclipse-cyclonedds/cyclonedds",
+        "revisions": [
+            "releases/0.10.x"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/dataspeedinc/dataspeed_can",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/dataspeedinc/dbw_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/demos",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/luxonis/depthai-core",
+        "revisions": [
+            "ros-release"
+        ]
+    },
+    {
+        "repository": "github.com/luxonis/depthai-ros",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/depthimage_to_laserscan",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros/diagnostics",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/chapulina/dolly",
+        "revisions": [
+            "galactic"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/domain_bridge",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/dynamixel-community/dynamixel_hardware",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/DynamixelSDK",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/dynamixel-workbench",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/dynamixel-workbench-msgs",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/eclipse-ecal/ecal",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/ecl_tools",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/eigen3_cmake_module",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros/eigen_stl_containers",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/eigenpy",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-event-camera/event_camera_codecs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-event-camera/event_camera_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-event-camera/event_camera_py",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-event-camera/event_camera_renderer",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/example_interfaces",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/examples",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/eProsima/Fast-CDR",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/eProsima/Fast-DDS",
+        "revisions": [
+            "2.6.x"
+        ]
+    },
+    {
+        "repository": "github.com/ros/filters",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/introlab/find-object",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/flexbe/flexbe_app",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/flexbe/flexbe_behavior_engine",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/flir_camera_driver",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/minipada/fluent_bit_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ForteFibre/FluentRviz",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/boschresearch/fmi_adapter",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/boschresearch/fmilibrary_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/BerkeleyAutomation/FogROS2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/eProsima/foonathan_memory_vendor",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/42dot/foros",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/four_wheel_steering_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/foxglove/ros-foxglove-bridge",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/foxglove/schemas",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-simulation/gazebo_ros2_control",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-simulation/gazebo_ros_pkgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/gc_spl",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/generate_parameter_library",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-geographic-info/geographic_info",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/geometric_shapes",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/geometry2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros/geometry_tutorials",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ament/google_benchmark_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ament/googletest",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/gps_umd",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/graph_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/mikeferguson/grasping_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/flynneva/grbl_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/flynneva/grbl_ros",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ANYbotics/grid_map",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/gscam",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/borglab/gtsam",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/hash_library_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/heaphook",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/hey5_description",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/hls_lfcd_lds_driver",
+        "revisions": [
+            "rolling-devel"
+        ]
+    },
+    {
+        "repository": "github.com/humanoid-path-planner/hpp-fcl",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/eclipse-iceoryx/iceoryx",
+        "revisions": [
+            "release_2.0"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/ifm3d-release",
+        "revisions": [
+            "release/humble/ifm3d_core/0.18.0-7"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/gz_ros2_control",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ignitionrobotics/ign-rviz",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ignition-release/ignition_cmake2_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ignition-release/ignition_math6_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/image_common",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/image_pipeline",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/image_transport_plugins",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/CCNYRoboticsLab/imu_tools",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/interactive_marker_twist_server",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/interactive_markers",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/iRobotEducation/irobot_create_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros/joint_state_publisher",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/joshnewans/joy_tester",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/joystick_drivers",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros/kdl_parser",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-tooling/keyboard_handler",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/kinematics_interface",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/kobuki-base/kobuki_ros_interfaces",
+        "revisions": [
+            "release/1.0.x"
+        ]
+    },
+    {
+        "repository": "github.com/kobuki-base/kobuki_velocity_smoother",
+        "revisions": [
+            "release/0.15.x"
+        ]
+    },
+    {
+        "repository": "github.com/fzi-forschungszentrum-informatik/lanelet2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_filters",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_geometry",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_proc",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/launch",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/launch_pal",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/launch_param_builder",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/launch_ros",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/LeoRover/leo_common-ros2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/LeoRover/leo_desktop-ros2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/LeoRover/leo_robot-ros2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/lgsvl/lgsvl_msgs",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "git.libcamera.org/libcamera/libcamera",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/AutonomyLab/libcreate",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/libg2o-release",
+        "revisions": [
+            "release/humble/libg2o/2020.5.29-4"
+        ]
+    },
+    {
+        "repository": "github.com/ethz-asl/libnabo",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ethz-asl/libpointmatcher",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/IntelRealSense/librealsense",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-tooling/libstatistics_collector",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/libyaml_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/LMS1xx",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/boschglobal/locator_ros_bridge",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/AutonicsLiDAR/lsc_ros2_driver",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/dataspeedinc/lusb",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/Neargye/magic_enum",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/mapviz",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tuw-robotics/marker_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/marti_common",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/marti_messages",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/MarvelmindRobotics/marvelmind_ros2_msgs_release",
+        "revisions": [
+            "release/humble/marvelmind_ros2_msgs/1.0.2-1"
+        ]
+    },
+    {
+        "repository": "github.com/MarvelmindRobotics/marvelmind_ros2_upstream",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/mavlink-gbp-release",
+        "revisions": [
+            "release/humble/mavlink"
+        ]
+    },
+    {
+        "repository": "github.com/mavlink/mavros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/menge_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/message_filters",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ika-rwth-aachen/message_tf_frame_transformer",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-event-camera/metavision_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/metrics_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/metro_gazebo_plugins",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/metro_nav",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/micro-ROS/micro_ros_diagnostics",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/micro-ROS/micro_ros_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/LORD-MicroStrain/microstrain_inertial",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/mimick_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/DFKI-NI/mir_robot",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/OrebroUniversity/mod",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/MOLAorg/mola",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit2",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_resources",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_visual_tools",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ika-rwth-aachen/mqtt_client",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/MRPT/mrpt",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/mrpt_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/mrpt_navigation",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/MRPT/mrpt_path_planning",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/KIT-MRT/mrt_cmake_modules",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/MRPT/mvsim",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/ijnek/nao_button_sim",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ijnek/nao_interfaces",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/nao_lola",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/navigation2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/navigation_msgs",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/neobotix/neo_simulation2",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/nerian-vision/nerian_stereo_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/nlohmann_json_schema_validator_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/nmea_hardware_interface",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/nmea_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/nmea_navsat_driver",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ubuntu-robotics/nodl",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/osrf/nodl_to_policy",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/novatel_gps_driver",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/novatel/novatel_oem7_driver",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/vooon/ntpd_driver",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/LORD-MicroStrain/ntrip_client",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/wg-perception/object_recognition_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/octomap/octomap",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap_mapping",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/octomap/octomap_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap_rviz_plugins",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/gstavrinos/odom_to_tf_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/ompl-release",
+        "revisions": [
+            "release/humble/ompl/1.6.0-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/openni2_camera",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/orocos_kdl_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/osqp_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/osrf/osrf_pycommon",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/osrf/osrf_testing_tools_cpp",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/ouxt_common",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/pal_gazebo_plugins",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/pal_gazebo_worlds",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/pal_gripper",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/pal_navigation_cfg_public",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/pal_statistics",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/pcl_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/perception_open3d",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/perception_pcl",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "gitlab.com/ApexAI/performance_test",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/performance_test_fixture",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/phidgets_drivers",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/pick_ik",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/picknik_ament_copyright-release",
+        "revisions": [
+            "release/humble/picknik_ament_copyright/0.0.2-3"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/picknik_controllers",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/pinocchio",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/play_motion2",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/facontidavide/PlotJuggler",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/facontidavide/plotjuggler_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/PlotJuggler/plotjuggler-ros-plugins",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros/pluginlib",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/pmb2_navigation",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/pmb2_robot",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/pmb2_simulation",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "gitlab.com/ApexAI/point_cloud_msg_wrapper",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/pointcloud_to_laserscan",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/polygon_ros",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/fmrico/popf",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/pose_cov_ops",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/Simple-Robotics/proxsuite",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees",
+        "revisions": [
+            "release/2.2.x"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees_js",
+        "revisions": [
+            "release/0.6.x"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees_ros",
+        "revisions": [
+            "release/2.2.x"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees_ros_interfaces",
+        "revisions": [
+            "release/2.1.x"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/pybind11_json_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/pybind11_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/python_cmake_module",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/python_qt_binding",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/Autoware-AI/qpoases_vendor",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/qt_gui_core",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/quaternion_operation",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/r2r_spl",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/radar_msgs-release",
+        "revisions": [
+            "release/humble/radar_msgs/0.2.1-3"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/random_numbers",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/rt-net/raspimouse2",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/rt-net/raspimouse_description",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/rt-net/raspimouse_ros2_examples",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/rt-net/raspimouse_slam_navigation_ros2",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_common_msgs_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_dynamics_api",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_genicam_api",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_genicam_driver_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_reason_clients_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rcdiscover",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rcl",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rcl_interfaces",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rcl_logging",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rclc",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rclcpp",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rclpy",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rcpputils",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/rcss3d_agent",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rcutils",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/reach",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/reach_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/IntelRealSense/realsense-ros",
+        "revisions": [
+            "ros2-development"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/realtime_support",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/realtime_tools",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/resource_retriever",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/teamspatzenhirn/rig_reconfigure",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_api_msgs",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_battery",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_building_map_msgs",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_cmake_uncrustify",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_demos",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_internal_msgs",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_ros2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_simulation",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_task",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_traffic",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_traffic_editor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_utils",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_variants",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_visualization",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_visualization_msgs",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_connextdds",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_cyclonedds",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_dds_common",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_fastrtps",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_gurumdds",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_implementation",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/mikeferguson/robot_calibration",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/fetchrobotics/robot_controllers",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/cra-ros-pkg/robot_localization",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/robot_state_publisher",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/robot_upstart",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/robotraconteur/robotraconteur",
+        "revisions": [
+            "ros2-humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros1_bridge",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/ros2_canopen",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/ros2_control",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/ros2_controllers",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/Kinovarobotics/ros2_kortex",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/SteveMacenski/ros2_ouster_drivers",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/IntelligentRoboticsLabs/ros2_planning_system",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/ros2_robotiq_gripper",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/autowarefoundation/ros2_socketcan",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros2_tracing",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/ros2acceleration",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros2cli",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros2cli_common_extensions",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/osrf/ros2launch_security",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/ros_canopen",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ros_environment",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/gazebosim/ros_gz",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/ros_image_to_qimage",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/ros_industrial_cmake_boilerplate-release",
+        "revisions": [
+            "release/humble/ros_industrial_cmake_boilerplate/0.4.0-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros_testing",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ros_tutorials",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros_workspace",
+        "revisions": [
+            "latest"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosbag2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosbag2_bag_v2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/RobotWebTools/rosbridge_suite",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_dds",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_defaults",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_python",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_runtime_py",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_typesupport",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_typesupport_fastrtps",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/DFKI-NI/rospy_message_converter",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/AIS-Bonn/rot_conv_lib",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/Slamtec/rplidar_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rpyutils",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_action",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_bag",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_common_plugins",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_console",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_graph",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/rqt_image_overlay",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_image_view",
+        "revisions": [
+            "rolling-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_moveit",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_msg",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_plot",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_publisher",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_py_console",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_reconfigure",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_robot_dashboard",
+        "revisions": [
+            "ROS2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_robot_monitor",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_robot_steering",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_runtime_monitor",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_service_caller",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_shell",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_srv",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_tf_tree",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_topic",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/RSL",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/rt-net/rt_manipulators_cpp",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/rt-net/rt_usb_9axisimu_driver",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/introlab/rtabmap",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/introlab/rtabmap_ros",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tilk/rtcm_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/pantor/ruckig",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rviz",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/teamspatzenhirn/rviz_2d_overlay_plugins",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/nobleo/rviz_satellite",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/rviz_visual_tools",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/SCHUNK-GmbH-Co-KG/schunk_svh_library",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/SCHUNK-GmbH-Co-KG/schunk_svh_ros_driver",
+        "revisions": [
+            "ros2-humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros/sdformat_urdf",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/septentrio-gnss/septentrio_gnss_driver",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/SICKAG/sick_safetyscanners2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/SICKAG/sick_safetyscanners2_interfaces",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/SICKAG/sick_safetyscanners_base",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/DLu/simple_actions",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/mikeferguson/simple_grasping",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/oKermorgant/simple_launch",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/simple-term-menu",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/SteveMacenski/slam_toolbox",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/oKermorgant/slider_publisher",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/robosoft-ai/SMACC2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros/executive_smach",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/snowbot_operating_system",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/soccer_interfaces",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ijnek/soccer_object_msgs",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ijnek/soccer_visualization",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/social_nav_ros",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/sol_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/sophus",
+        "revisions": [
+            "release/1.3.x"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/spdlog_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/srdfdom",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/sros2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ose-support-ros/stcamera_ros2",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/stomp",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/stubborn_buddies",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/swri_console",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/ros_system_fingerprint",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/micro-ROS/system_modes",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/system_tests",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/tango_icons_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/teleop_tools",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/teleop_twist_joy",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/teleop_twist_keyboard",
+        "revisions": [
+            "dashing"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/tensorrt_cmake_module",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/test_interface_files",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/DLu/tf_transformations",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/the_navigation_gauntlet",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/tiago_moveit_config",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/tiago_navigation",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/tiago_robot",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/tiago_simulation",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/wep21/tinyspline_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/tinyxml2_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/tinyxml_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/tlsf",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/topic_based_ros2_control-release",
+        "revisions": [
+            "release/humble/topic_based_ros2_control/0.1.1-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-tooling/topic_tools",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/tracetools_acceleration",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "gitlab.com/ros-tracing/tracetools_analysis",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/transport_drivers",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/wep21/turbojpeg_compressed_image_transport",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/turtlebot3",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/turtlebot3_manipulation",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/turtlebot3_msgs",
+        "revisions": [
+            "rolling-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/turtlebot3_simulations",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/turtlebot/turtlebot4",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/turtlebot/turtlebot4_desktop",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/turtlebot/turtlebot4_robot",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/turtlebot/turtlebot4_setup",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/turtlebot/turtlebot4_simulator",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/turtlebot/turtlebot4_tutorials",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/tuw-robotics/tuw_geometry",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/tuw-robotics/tuw_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/autowarefoundation/tvm_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/twist_mux",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/twist_mux_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/joshnewans/twist_stamper",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/KumarRobotics/ublox",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/aussierobots/ublox_dgnss",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/flynneva/udp_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ament/uncrustify_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/unique_identifier_msgs",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_Client_Library",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_ROS2_Description",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/ur_msgs",
+        "revisions": [
+            "foxy"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_ROS2_Driver",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/urdf",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/urdf_launch",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdf_parser_py",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/urdf_test",
+        "revisions": [
+            "humble-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdf_tutorial",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdfdom",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdfdom_headers",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/urg_c",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/urg_node",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/urg_node_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/usb_cam",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "gitlab.com/boldhearts/ros2_v4l2_camera",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/variants",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/velodyne",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/DataspeedInc/velodyne_simulator",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/vision_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/vision_msgs_layers",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/vision_opencv",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/lagadic/visp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/vitis_common",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/vrpn/vrpn",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/alvinsunyixiao/vrpn_mocap",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/rfzeg/wall_follower_ros2",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/warehouse_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/warehouse_ros_mongo",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/warehouse_ros_sqlite",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/cyberbotics/webots_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/TechMagicKK/weight_scale_interfaces",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/wireless",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/xacro",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/yaml_cpp_vendor",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/zbar_ros",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/eclipse-zenoh/zenoh-plugin-dds",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/zmqpp_vendor",
+        "revisions": [
+            "main"
+        ]
+    }
+]

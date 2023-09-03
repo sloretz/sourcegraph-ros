@@ -1,0 +1,2679 @@
+[
+    {
+        "repository": "github.com/robosoft-ai/SMACC2",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "gitlab.com/autowarefoundation/autoware.auto/acado_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/ackermann_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/rudislabs/actuator_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/adaptive_component",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/ament_acceleration",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ament/ament_cmake",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/ament_cmake_catch2",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ament_cmake_ros",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/samsung-ros/ament_download",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ament/ament_index",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ament/ament_lint",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ubuntu-robotics/ament_nodl",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ament/ament_package",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/ament_vitis",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros/angles",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "gitlab.com/ApexAI/apex_containers",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "gitlab.com/ApexAI/apex_test_tools",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/AprilRobotics/apriltag",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/christianrauch/apriltag_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/christianrauch/apriltag_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/fictionlab/ros_aruco_opencv",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/fkie/async_web_server_cpp",
+        "revisions": [
+            "ros2-develop"
+        ]
+    },
+    {
+        "repository": "github.com/hatchbed/asyncapi_gencpp",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/astuff/automotive_autonomy_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "gitlab.com/autowarefoundation/autoware.auto/autoware_auto_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/astuff/avt_vimba_camera",
+        "revisions": [
+            "ros2_master"
+        ]
+    },
+    {
+        "repository": "github.com/aws-robotics/aws-robomaker-small-warehouse-world",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/wep21/aws_sdk_cpp_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/backward_ros",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/wep21/bag2_to_image",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/BehaviorTree/BehaviorTree.CPP",
+        "revisions": [
+            "v3.8",
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/flynneva/bno055",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros/bond_core",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/boost_geometry_util",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/cartographer",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/cartographer_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/fmrico/cascade_lifecycle",
+        "revisions": [
+            "rolling-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ngmor/catch_ros2",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros/class_loader",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/color_names-release",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/color_util",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/common_interfaces",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/console_bridge_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/rst-tu-dortmund/control_box_rst",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/control_msgs",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/control_toolbox",
+        "revisions": [
+            "ros2-master"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/cpp_polyfills",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/cudnn_cmake_module",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/eclipse-cyclonedds/cyclonedds",
+        "revisions": [
+            "releases/0.10.x"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/demos",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/luxonis/depthai-core",
+        "revisions": [
+            "ros-release"
+        ]
+    },
+    {
+        "repository": "github.com/luxonis/depthai-ros",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/depthimage_to_laserscan",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros/diagnostics",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/chapulina/dolly",
+        "revisions": [
+            "galactic"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/domain_bridge",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/dynamixel-community/dynamixel_hardware",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/DynamixelSDK",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/dynamixel-workbench",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/dynamixel-workbench-msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/eclipse-ecal/ecal",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/ecl_core",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/ecl_lite",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/ecl_tools",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/eigen3_cmake_module",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros/eigen_stl_containers",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/eigenpy",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/example_interfaces",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/examples",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/eProsima/Fast-CDR",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/eProsima/Fast-DDS",
+        "revisions": [
+            "2.10.x"
+        ]
+    },
+    {
+        "repository": "github.com/ros/filters",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/introlab/find-object",
+        "revisions": [
+            "rolling-devel"
+        ]
+    },
+    {
+        "repository": "github.com/flexbe/flexbe_behavior_engine",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ForteFibre/FluentRviz",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/boschresearch/fmi_adapter",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/boschresearch/fmilibrary_vendor",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/eProsima/foonathan_memory_vendor",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/four_wheel_steering_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/foxglove/ros-foxglove-bridge",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/foxglove/schemas",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/locusrobotics/fuse",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-simulation/gazebo_ros2_control",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-simulation/gazebo_ros_pkgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/gc_spl",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/generate_parameter_library",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-geographic-info/geographic_info",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/geometric_shapes",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/geometry2",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros/geometry_tutorials",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ament/google_benchmark_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ament/googletest",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/gps_umd",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/graph_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/flynneva/grbl_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/flynneva/grbl_ros",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ANYbotics/grid_map",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/gscam",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/borglab/gtsam",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/gz_ros2_control",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/hash_library_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/hatchbed/hatchbed_common",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/heaphook",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/hls_lfcd_lds_driver",
+        "revisions": [
+            "rolling-devel"
+        ]
+    },
+    {
+        "repository": "github.com/humanoid-path-planner/hpp-fcl",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/eclipse-iceoryx/iceoryx",
+        "revisions": [
+            "release_2.0"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/ifm3d-release",
+        "revisions": [
+            "release/iron/ifm3d_core/0.18.0-9"
+        ]
+    },
+    {
+        "repository": "github.com/ignitionrobotics/ign-rviz",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ignition-release/ignition_cmake2_vendor",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ignition-release/ignition_math6_vendor",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/image_common",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/image_pipeline",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/image_transport_plugins",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/CCNYRoboticsLab/imu_tools",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/interactive_markers",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/iRobotEducation/irobot_create_msgs",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros/joint_state_publisher",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/joshnewans/joy_tester",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/joystick_drivers",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros/kdl_parser",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-tooling/keyboard_handler",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/kinematics_interface",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/kobuki-base/kobuki_core",
+        "revisions": [
+            "release/1.4.x"
+        ]
+    },
+    {
+        "repository": "github.com/kobuki-base/kobuki_ros_interfaces",
+        "revisions": [
+            "release/1.0.x"
+        ]
+    },
+    {
+        "repository": "github.com/kobuki-base/kobuki_velocity_smoother",
+        "revisions": [
+            "release/0.15.x"
+        ]
+    },
+    {
+        "repository": "github.com/fzi-forschungszentrum-informatik/lanelet2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_filters",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_geometry",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_proc",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/launch",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/launch_param_builder",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/launch_ros",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/lgsvl/lgsvl_msgs",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/AutonomyLab/libcreate",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/libg2o-release",
+        "revisions": [
+            "release/iron/libg2o/2020.5.29-5"
+        ]
+    },
+    {
+        "repository": "github.com/ethz-asl/libnabo",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ethz-asl/libpointmatcher",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/IntelRealSense/librealsense",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-tooling/libstatistics_collector",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/libyaml_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/boschglobal/locator_ros_bridge",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/hatchbed/log_view",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/Neargye/magic_enum",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/mapviz",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/marti_common",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/marti_messages",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/mavlink/mavlink-gbp-release",
+        "revisions": [
+            "release/rolling/mavlink"
+        ]
+    },
+    {
+        "repository": "github.com/mavlink/mavros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/menge_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/message_filters",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ika-rwth-aachen/message_tf_frame_transformer",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/micro-ROS/micro_ros_diagnostics",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/micro-ROS/micro_ros_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/LORD-MicroStrain/microstrain_inertial",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/mimick_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/DFKI-NI/mir_robot",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/MOLAorg/mola",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit2",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_resources",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_visual_tools",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ika-rwth-aachen/mqtt_client",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/MRPT/mrpt",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/mrpt_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/mrpt_navigation",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/MRPT/mrpt_path_planning",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/mrpt_sensors",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/KIT-MRT/mrt_cmake_modules",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/MRPT/mvsim",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/ijnek/nao_button_sim",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ijnek/nao_interfaces",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/nao_lola",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/navigation2",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/navigation_msgs",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/neobotix/neo_simulation2",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/nlohmann_json_schema_validator_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/nmea_hardware_interface",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/nmea_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/nmea_navsat_driver",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ubuntu-robotics/nodl",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/osrf/nodl_to_policy",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/SteveMacenski/nonpersistent_voxel_layer",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/novatel_gps_driver",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/vooon/ntpd_driver",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/LORD-MicroStrain/ntrip_client",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/wg-perception/object_recognition_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/octomap/octomap",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap_mapping",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/octomap/octomap_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap_rviz_plugins",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/gstavrinos/odom_to_tf_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/ompl-release",
+        "revisions": [
+            "release/iron/ompl/1.5.2-4"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/openni2_camera",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/hatchbed/opensw",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/hatchbed/opensw_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/orocos_kdl_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/osqp_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/osrf/osrf_pycommon",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/osrf/osrf_testing_tools_cpp",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ouster-lidar/ouster-ros.wiki",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/ouxt_common",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/pcl_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/perception_open3d",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/perception_pcl",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "gitlab.com/ApexAI/performance_test",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/performance_test_fixture",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/phidgets_drivers",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/pick_ik",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/picknik_ament_copyright-release",
+        "revisions": [
+            "release/iron/picknik_ament_copyright/0.0.2-4"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/picknik_controllers",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/pinocchio",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/facontidavide/PlotJuggler",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/facontidavide/plotjuggler_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/PlotJuggler/plotjuggler-ros-plugins",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros/pluginlib",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "gitlab.com/ApexAI/point_cloud_msg_wrapper",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/pointcloud_to_laserscan",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/polygon_ros",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/fmrico/popf",
+        "revisions": [
+            "iron-devel"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/pose_cov_ops",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/Simple-Robotics/proxsuite",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees_js",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees_ros",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees_ros_interfaces",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/pybind11_json_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/pybind11_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/python_cmake_module",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/python_qt_binding",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/Autoware-AI/qpoases_vendor",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/qt_gui_core",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/quaternion_operation",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/r2r_spl",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/radar_msgs-release",
+        "revisions": [
+            "release/iron/radar_msgs/0.2.2-3"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/random_numbers",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_common_msgs_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_dynamics_api",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_genicam_api",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_genicam_driver_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_reason_clients_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rcdiscover",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rcl",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rcl_interfaces",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rcl_logging",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/sloretz/rcl_logging_rcutils",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rclc",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rclcpp",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rclpy",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rcpputils",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/rcss3d_agent",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/rcss3d_nao",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rcutils",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/IntelRealSense/realsense-ros",
+        "revisions": [
+            "ros2-development"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/realtime_support",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/realtime_tools",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/resource_retriever",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/teamspatzenhirn/rig_reconfigure",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_api_msgs",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_battery",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_building_map_msgs",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_cmake_uncrustify",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_demos",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_internal_msgs",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_ros2",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_simulation",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_task",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_traffic",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_traffic_editor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_utils",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_variants",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_visualization",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/rmf_visualization_msgs",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_connextdds",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_cyclonedds",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_dds_common",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_fastrtps",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_gurumdds",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rmw_implementation",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/mikeferguson/robot_calibration",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/cra-ros-pkg/robot_localization",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros/robot_state_publisher",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/robotraconteur/robotraconteur",
+        "revisions": [
+            "ros2-iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros1_bridge",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/ros2_control",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/ros2_controllers",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/Kinovarobotics/ros2_kortex",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/PlanSys2/ros2_planning_system",
+        "revisions": [
+            "iron-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/ros2_robotiq_gripper",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/autowarefoundation/ros2_socketcan",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros2_tracing",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/ros2acceleration",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros2cli",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros2cli_common_extensions",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/osrf/ros2launch_security",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/ros_canopen",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ros_environment",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/gazebosim/ros_gz",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/ros_image_to_qimage",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros2-gbp/ros_industrial_cmake_boilerplate-release",
+        "revisions": [
+            "release/iron/ros_industrial_cmake_boilerplate/0.4.0-3"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros_testing",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ros_tutorials",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/ros_workspace",
+        "revisions": [
+            "latest"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosbag2",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosbag2_bag_v2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/RobotWebTools/rosbridge_suite",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_core",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_dds",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_defaults",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_dynamic_typesupport",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_dynamic_typesupport_fastrtps",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_python",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_runtime_py",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_typesupport",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rosidl_typesupport_fastrtps",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/DFKI-NI/rospy_message_converter",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/AIS-Bonn/rot_conv_lib",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/allenh1/rplidar_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rpyutils",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_action",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_bag",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_common_plugins",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_console",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_graph",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/rqt_image_overlay",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_image_view",
+        "revisions": [
+            "rolling-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_moveit",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_msg",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_plot",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_publisher",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_py_console",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_reconfigure",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_robot_dashboard",
+        "revisions": [
+            "ROS2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_robot_monitor",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_robot_steering",
+        "revisions": [
+            "dashing-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_runtime_monitor",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_service_caller",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_shell",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_srv",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_tf_tree",
+        "revisions": [
+            "humble"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_topic",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/RSL",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/rt-net/rt_manipulators_cpp",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/introlab/rtabmap",
+        "revisions": [
+            "rolling-devel"
+        ]
+    },
+    {
+        "repository": "github.com/introlab/rtabmap_ros",
+        "revisions": [
+            "iron-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tilk/rtcm_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/pantor/ruckig",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/rviz",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/teamspatzenhirn/rviz_2d_overlay_plugins",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/nobleo/rviz_satellite",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/rviz_visual_tools",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros/sdformat_urdf",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/septentrio-gnss/septentrio_gnss_driver",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/SICKAG/sick_safetyscanners2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/SICKAG/sick_safetyscanners2_interfaces",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/SICKAG/sick_safetyscanners_base",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/DLu/simple_actions",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/oKermorgant/simple_launch",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/SteveMacenski/slam_toolbox",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/oKermorgant/slider_publisher",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros/executive_smach",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/snowbot_operating_system",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/soccer_interfaces",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ijnek/soccer_object_msgs",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/soccer_vision_3d_rviz_markers",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ijnek/soccer_visualization",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/social_nav_ros",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/OUXT-Polaris/sol_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/sophus",
+        "revisions": [
+            "release/1.2.x"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/spdlog_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/srdfdom",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/sros2",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/stomp",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/open-rmf/stubborn_buddies",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/swri_console",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/ros_system_fingerprint",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/micro-ROS/system_modes",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/system_tests",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/tango_icons_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/teleop_tools",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/teleop_twist_joy",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/teleop_twist_keyboard",
+        "revisions": [
+            "dashing"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/tensorrt_cmake_module",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/test_interface_files",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/locusrobotics/tf2_2d",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/DLu/tf_transformations",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/wep21/tinyspline_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/tinyxml2_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/tinyxml_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/tlsf",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/topic_based_ros2_control-release",
+        "revisions": [
+            "release/iron/topic_based_ros2_control/0.1.1-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-tooling/topic_tools",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/tracetools_acceleration",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "gitlab.com/ros-tracing/tracetools_analysis",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/transport_drivers",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/wep21/turbojpeg_compressed_image_transport",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/turtlebot3_msgs",
+        "revisions": [
+            "rolling-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/turtlebot3_simulations",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/tuw-robotics/tuw_geometry",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/autowarefoundation/tvm_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/twist_mux",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/twist_mux_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/joshnewans/twist_stamper",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/KumarRobotics/ublox",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/aussierobots/ublox_dgnss",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/flynneva/udp_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ament/uncrustify_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/unique_identifier_msgs",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_Client_Library",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_ROS2_Description",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/ur_msgs",
+        "revisions": [
+            "foxy"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_ROS2_Driver",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/urdf",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/urdf_launch",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdf_parser_py",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdf_tutorial",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdfdom",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdfdom_headers",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/urg_c",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/urg_node",
+        "revisions": [
+            "ros2-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/urg_node_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/usb_cam",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "gitlab.com/boldhearts/ros2_v4l2_camera",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/variants",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/velodyne",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/DataspeedInc/velodyne_simulator",
+        "revisions": [
+            "foxy-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/vision_msgs",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-sports/vision_msgs_layers",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/vision_opencv",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/lagadic/visp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-acceleration/vitis_common",
+        "revisions": [
+            "rolling"
+        ]
+    },
+    {
+        "repository": "github.com/vrpn/vrpn",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/alvinsunyixiao/vrpn_mocap",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/warehouse_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/warehouse_ros_mongo",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/warehouse_ros_sqlite",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/cyberbotics/webots_ros2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/xacro",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/ros2/yaml_cpp_vendor",
+        "revisions": [
+            "iron"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/zbar_ros",
+        "revisions": [
+            "ros2"
+        ]
+    },
+    {
+        "repository": "github.com/eclipse-zenoh/zenoh-plugin-dds",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/zmqpp_vendor",
+        "revisions": [
+            "main"
+        ]
+    }
+]

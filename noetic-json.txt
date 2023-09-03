@@ -1,0 +1,4559 @@
+[
+    {
+        "repository": "github.com/ros-industrial/abb_driver",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/abb_robot_driver_interfaces",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/ackermann_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/actionlib",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ubi-agni/agni_tf_tools",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/AinsteinAI/ainstein_radar",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/LexxPluss/amr_interop_bridge",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros/angles",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/app_manager",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/aprilrobotics/apriltag",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/AprilRobotics/apriltag_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/vanadiumlabs/arbotix_ros",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/fictionlab/aruco_opencv",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/aruco_ros",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/astuff/astuff_sensor_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/dpkoch/async_comm",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/fkie/async_web_server_cpp",
+        "revisions": [
+            "ros1-develop"
+        ]
+    },
+    {
+        "repository": "github.com/robustify/audibot",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/audio_common",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/astuff/automotive_autonomy_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/autoware-ai/messages",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/oceansystemslab/auv_msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/astuff/avt_vimba_camera",
+        "revisions": [
+            "ros1_master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/axis_camera",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/Azure/azure-iot-sdk-c",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/backward_ros",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/squarerobot/bagger",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/crigroup/baldor",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/uos/basler_tof",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/BehaviorTree/BehaviorTree.CPP",
+        "revisions": [
+            "v3.8",
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/bond_core",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tesseract-robotics/boost_plugin_loader",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/boost_sml",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "gitlab.com/botasys/bota_driver",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/calibration",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/up2metric/cam2lidar",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/FraunhoferIOSB/camera_aravis",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/osrf/capabilities",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/care-o-bot",
+        "revisions": [
+            "kinetic_dev"
+        ]
+    },
+    {
+        "repository": "github.com/carla-simulator/ros-carla-msgs",
+        "revisions": [
+            "release"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_ROS_cartesian_control_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/cartesian_msgs",
+        "revisions": [
+            "jade-devel"
+        ]
+    },
+    {
+        "repository": "github.com/AIS-Bonn/catch_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/catkin",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tue-robotics/catkin_lint_cmake",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/locusrobotics/catkin_virtualenv",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/alf767443/node_monitoring",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/alf767443/ros_monitoring",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros/class_loader",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/CLOBOT-Co-Ltd/clober",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/CLOBOT-Co-Ltd/clober_msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/canlab-co/clpe_ros",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/canlab-co/clpe_ros_msgs",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/canlab-co/CLPE_G_NVP2650D_SDK",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros/cmake_modules",
+        "revisions": [
+            "0.4-devel"
+        ]
+    },
+    {
+        "repository": "github.com/teshanshanuka/cmvision",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PeterMitrano/cnpy",
+        "revisions": [
+            "0.0.1"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_android",
+        "revisions": [
+            "indigo_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_calibration_data",
+        "revisions": [
+            "indigo_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_command_tools",
+        "revisions": [
+            "indigo_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_common",
+        "revisions": [
+            "kinetic_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_control",
+        "revisions": [
+            "melodic_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_driver",
+        "revisions": [
+            "kinetic_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_environments",
+        "revisions": [
+            "indigo_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_extern",
+        "revisions": [
+            "indigo_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_gazebo_plugins",
+        "revisions": [
+            "kinetic_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_hand",
+        "revisions": [
+            "indigo_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_manipulation",
+        "revisions": [
+            "kinetic_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_navigation",
+        "revisions": [
+            "indigo_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_perception_common",
+        "revisions": [
+            "indigo_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_robots",
+        "revisions": [
+            "kinetic_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_simulation",
+        "revisions": [
+            "kinetic_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_substitute",
+        "revisions": [
+            "indigo_dev"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/cob_supported_robots",
+        "revisions": [
+            "indigo_dev"
+        ]
+    },
+    {
+        "repository": "github.com/mikeferguson/code_coverage",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/yoshito-n-students/codec_image_transport",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/collada_urdf",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/common_msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/common_tutorials",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/compass",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/kinu-garage/computer_status_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/rst-tu-dortmund/control_box_rst",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/control_msgs",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/control_toolbox",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/convex_decomposition",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/nobleo/core_perception",
+        "revisions": [
+            "points_preprocessor_release_noetic"
+        ]
+    },
+    {
+        "repository": "github.com/rst-tu-dortmund/costmap_converter",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/cpr-application/cpr_onav_description",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/cras_imu_tools",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/cras_laser_geometry",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/cras_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/cras_relative_positional_controller",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/ros-utils",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/AutonomyLab/create_robot",
+        "revisions": [
+            "melodic"
+        ]
+    },
+    {
+        "repository": "github.com/crigroup/criutils",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/AndreaCensi/csm",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/OTL/cv_camera",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/leggedrobotics/darknet_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/dataspeedinc/dataspeed_can",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/DataspeedInc/dataspeed_pds",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/DataspeedInc/dataspeed_ulc_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/DataspeedInc/dbw_fca_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/dataspeedinc/dbw_mkz_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/DataspeedInc/dbw_polaris_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/ddynamic_reconfigure",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/ddynamic_reconfigure_python",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/luxonis/depthai-core",
+        "revisions": [
+            "ros-release"
+        ]
+    },
+    {
+        "repository": "github.com/luxonis/depthai-ros",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-gbp/depthimage_to_laserscan-release",
+        "revisions": [
+            "release/noetic/depthimage_to_laserscan/1.0.8-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros/diagnostics",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-mobile-robots/diffbot",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/dingo-cpr/dingo",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/dingo-cpr/dingo_desktop",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/dingo-cpr/dingo_simulator",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/UbiquityRobotics-release/dnn_detect-release",
+        "revisions": [
+            "release/noetic/dnn_detect/0.1.0-1"
+        ]
+    },
+    {
+        "repository": "github.com/google/draco",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/driver_common",
+        "revisions": [
+            "indigo-devel"
+        ]
+    },
+    {
+        "repository": "github.com/Achllle/dual_quaternions-release",
+        "revisions": [
+            "release/noetic/dual_quaternions/0.3.2-1"
+        ]
+    },
+    {
+        "repository": "github.com/Achllle/dual_quaternions_ros-release",
+        "revisions": [
+            "release/noetic/dual_quaternions_ros/0.1.4-1"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/dynamic-graph",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/dynamic-graph-python",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/dynamic-graph-tutorial",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/dynamic_reconfigure",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/peci1/dynamic_robot_state_publisher",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/dynamixel-workbench",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/dynamixel-workbench-msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/csiro-robotics/dynamixel_interface",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/DynamixelSDK",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/ecl_core",
+        "revisions": [
+            "release/0.62-noetic"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/ecl_lite",
+        "revisions": [
+            "release/0.61-noetic"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/ecl_navigation",
+        "revisions": [
+            "release/0.60-noetic"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/ecl_tools",
+        "revisions": [
+            "release/0.61-noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros/eigen_stl_containers",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/eigenpy",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/eiquadprog",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/electronic-io",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-gbp/eml-release",
+        "revisions": [
+            "release/noetic/eml/1.8.15-7"
+        ]
+    },
+    {
+        "repository": "github.com/ADVRHumanoids/ROSEndEffector",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ensenso/ros_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/enabled-robotics/er_public_msgs-release",
+        "revisions": [
+            "release/noetic/er_public_msgs/1.4.0-1"
+        ]
+    },
+    {
+        "repository": "github.com/bostoncleek/ergodic_exploration",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/cubicleguy/ess_imu_ros1_uart_driver",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/shadow-robot/ethercat_grant",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/euslime",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/euslisp/EusLisp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/executive_smach",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/executive_smach_visualization",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ipab-slmc/exotica",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/wxmerkt/exotica_val_description-release",
+        "revisions": [
+            "release/noetic/exotica_val_description/1.0.0-1"
+        ]
+    },
+    {
+        "repository": "github.com/iron-ox/fadecandy_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/lockmount_description",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/flexible-collision-library/fcl",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/wxmerkt/fcl_catkin-release",
+        "revisions": [
+            "release/noetic/fcl_catkin/0.6.1-1"
+        ]
+    },
+    {
+        "repository": "github.com/fetchrobotics/fetch_msgs",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/fetchrobotics/fetch_open_auto_dock",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/fetchrobotics/fetch_robots",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/fetchrobotics/fetch_ros",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/fetchrobotics/fetch_tools",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/UbiquityRobotics/fiducials",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/Fields2Cover/fields2cover_ros",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/filters",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/introlab/find-object",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/fkie/message_filters",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/fkie/multimaster_fkie",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/fkie/potree_rviz_plugin",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/avidbots/flatland",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/flexbe/flexbe_behavior_engine",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/flexbe/flexbe_app",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/flir_camera_driver",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/flynneva/floam",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/boschresearch/fmi_adapter",
+        "revisions": [
+            "melodic_and_noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/four_wheel_steering_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/foxglove/ros-foxglove-bridge",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/foxglove/schemas",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/rqt_frame_editor_plugin",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/frankaemika/franka_ros",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/locusrobotics/fuse",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/gazebo_custom_sensor_preloader",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tu-darmstadt-ros-pkg/gazebo_ros_control_select_joints",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-simulation/gazebo_ros_pkgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/nlamprian/gazebo_video_monitors",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/gencpp",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/geneus",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/genlisp",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/genmsg",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/rospypi/genmypy",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/RethinkRobotics-opensource/gennodejs",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/genpy",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-geographic-info/geographic_info",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/geometric_shapes",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/geometry",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/geometry2",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/geometry_tutorials",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/gl_dependency",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/adler-1994/gmcl",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/dorezyuk/gpp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/gps_umd",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/mikeferguson/graceful_controller",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/graft",
+        "revisions": [
+            "hydro-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/graph_msgs",
+        "revisions": [
+            "jade-devel"
+        ]
+    },
+    {
+        "repository": "github.com/mikeferguson/grasping_msgs",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/suurjaak/grepros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/anybotics/grid_map-release",
+        "revisions": [
+            "release/noetic/grid_map/1.6.4-1",
+            "release/noetic/grid_map_core/1.6.4-1",
+            "release/noetic/grid_map_costmap_2d/1.6.4-1",
+            "release/noetic/grid_map_cv/1.6.4-1",
+            "release/noetic/grid_map_demos/1.6.4-1",
+            "release/noetic/grid_map_filters/1.6.4-1",
+            "release/noetic/grid_map_loader/1.6.4-1",
+            "release/noetic/grid_map_msgs/1.6.4-1",
+            "release/noetic/grid_map_octomap/1.6.4-1",
+            "release/noetic/grid_map_pcl/1.6.4-1",
+            "release/noetic/grid_map_ros/1.6.4-1",
+            "release/noetic/grid_map_rviz_plugin/1.6.4-1",
+            "release/noetic/grid_map_sdf/1.6.4-1",
+            "release/noetic/grid_map_visualization/1.6.4-1"
+        ]
+    },
+    {
+        "repository": "github.com/CogRob/catkin_grpc",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/borglab/gtsam",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/davidfischinger/haf_grasping",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/crigroup/handeye",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/HebiRobotics/hebi_cpp_api_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tu-darmstadt-ros-pkg/hector_gazebo",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tu-darmstadt-ros-pkg/hector_localization",
+        "revisions": [
+            "catkin"
+        ]
+    },
+    {
+        "repository": "github.com/tu-darmstadt-ros-pkg/hector_models",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tu-darmstadt-ros-pkg/hector_slam",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/continental/hfl_driver",
+        "revisions": [
+            "ros1/main"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/hls_lfcd_lds_driver",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/at-wat/hokuyo3d",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/humanoid-path-planner/hpp-fcl",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros4hri/hri_actions_msgs",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros4hri/hri_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros4hri/hri_rviz",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros4hri/human_description",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/husky/husky",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ifm/ifm3d-ros-release",
+        "revisions": [
+            "release/noetic/ifm3d/0.6.2-3"
+        ]
+    },
+    {
+        "repository": "github.com/ifm/ifm3d-release",
+        "revisions": [
+            "release/noetic/ifm3d_core/0.18.0-5"
+        ]
+    },
+    {
+        "repository": "github.com/ethz-adrl/ifopt",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/ign_ros_control",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/image_common",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/image_pipeline",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/image_transport_plugins",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics-gbp/imagezero_transport-release",
+        "revisions": [
+            "release/noetic/imagezero/0.2.5-1",
+            "release/noetic/imagezero_image_transport/0.2.5-1",
+            "release/noetic/imagezero_ros/0.2.5-1"
+        ]
+    },
+    {
+        "repository": "github.com/pietrocolombo/imu_from_ios_sensorlog",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/imu_pipeline",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/CCNYRoboticsLab/imu_tools",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/industrial_core",
+        "revisions": [
+            "melodic"
+        ]
+    },
+    {
+        "repository": "github.com/gavanderhoorn/industrial_robot_status_controller",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/InnopolisAero/inno_sim_interface",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/InnopolisAero/inno_vtol_dynamics",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/interactive_marker_twist_server",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/interactive_markers",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/EduArt-Robotik/iotbot",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/alireza-hosseini/ipcamera_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/iralabdisco/ira_laser_tools",
+        "revisions": [
+            "ros1-master"
+        ]
+    },
+    {
+        "repository": "github.com/eupedrosa/iris_lama-release",
+        "revisions": [
+            "release/noetic/iris_lama/1.3.1-1"
+        ]
+    },
+    {
+        "repository": "github.com/eupedrosa/iris_lama_ros-release",
+        "revisions": [
+            "release/noetic/iris_lama_ros/1.3.3-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ivcon",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ixblue/ixblue_ins_stdbin_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ixblue/ixblue_stdbin_decoder",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/jackal/jackal",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/jackal/jackal_desktop",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/jackal/jackal_simulator",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/JdeRobot/assets",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/JdeRobot/drones-release",
+        "revisions": [
+            "release/noetic/drone_assets/1.4.2-1",
+            "release/noetic/drone_circuit_assets/1.4.2-1",
+            "release/noetic/drone_wrapper/1.4.2-1",
+            "release/noetic/jderobot_drones/1.4.2-1",
+            "release/noetic/rqt_drone_teleop/1.4.2-1",
+            "release/noetic/rqt_ground_robot_teleop/1.4.2-1",
+            "release/noetic/tello_driver/1.4.2-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros/joint_state_publisher",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/joystick_drivers",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/jsk_3rdparty",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/jsk_common",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/jsk_common_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/jsk_control",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/jsk_model_tools",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/jsk_pr2eus",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/jsk_recognition",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/jsk_roseus",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/jsk-ros-pkg/jsk_visualization",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/euslisp/jskeus",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/kdl_parser",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/Kawasaki-Robotics/khi_robot",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/utexas-bwi/knowledge_representation",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/yujinrobot/kobuki_core",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/yujinrobot/kobuki_msgs",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/MITRE/kvh_geo_fog_3d",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/beamaginelidar/l3cam_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/fzi-forschungszentrum-informatik/lanelet2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_assembler",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/DLu/laser_filtering",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_filters",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_geometry",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_pipeline",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/laser_proc",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/LeoRover/leo_common",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/LeoRover/leo_desktop",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/LeoRover/leo_examples",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/LeoRover/leo_robot",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/LeoRover/leo_simulator",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/lgsvl/lgsvl_msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/AutonomyLab/libcreate",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/frankaemika/libfranka",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-gbp/libg2o-release",
+        "revisions": [
+            "release/noetic/libg2o/2020.5.3-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros4hri/libhri",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ethz-asl/libnabo",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ethz-asl/libpointmatcher",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/IntelRealSense/librealsense",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/SICKAG/libsick_ldmrs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/libuvc_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/MoffKalast/line_planner",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/linux_peripheral_interfaces",
+        "revisions": [
+            "kinetic"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/lms1xx",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/boschglobal/locator_ros_bridge",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/hatchbed/log_view",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/AutonicsLiDAR/lsc_ros_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ihadzic/lsm_localization",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/dataspeedinc/lusb",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/uos/lvr2",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/hrnr/m-explore",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/Neargye/magic_enum",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/mapviz",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tuw-robotics/marker_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/marti_common",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/marti_messages",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/marvelmind_robotics/ros_marvelmind_package",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/mavlink/mavlink-gbp-release",
+        "revisions": [
+            "release/noetic/mavlink"
+        ]
+    },
+    {
+        "repository": "github.com/mavlink/mavros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/at-wat/mcl_3dl",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/at-wat/mcl_3dl_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/media_export",
+        "revisions": [
+            "indigo-devel"
+        ]
+    },
+    {
+        "repository": "github.com/uos/mesh_navigation",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/uos/mesh_tools",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/message_generation",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/message_runtime",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ika-rwth-aachen/message_tf_frame_transformer",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros/metapackages",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/Prensilia-srl/mia_hand_ros_pkgs-release",
+        "revisions": [
+            "release/noetic/mia_hand_bringup/1.0.2-1",
+            "release/noetic/mia_hand_description/1.0.2-1",
+            "release/noetic/mia_hand_driver/1.0.2-1",
+            "release/noetic/mia_hand_gazebo/1.0.2-1",
+            "release/noetic/mia_hand_moveit_config/1.0.2-1",
+            "release/noetic/mia_hand_msgs/1.0.2-1",
+            "release/noetic/mia_hand_ros_control/1.0.2-1",
+            "release/noetic/mia_hand_ros_pkgs/1.0.2-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/microstrain_3dmgx2_imu",
+        "revisions": [
+            "indigo-devel"
+        ]
+    },
+    {
+        "repository": "github.com/LORD-MicroStrain/microstrain_inertial",
+        "revisions": [
+            "ros"
+        ]
+    },
+    {
+        "repository": "github.com/peci1/mikrotik_swos_tools",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/DFKI-NI/mir_robot",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/nobleo/mobile_robot_simulator",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/NOKOV-MOCAP/mocap_nokov",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/mocap_optitrack",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/strands-project/mongodb_store",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/cst0/ros-monkeywrench",
+        "revisions": [
+            "noetic_devel"
+        ]
+    },
+    {
+        "repository": "github.com/magazino/move_base_flex",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/MarkNaeem/move_base_sequence",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ihadzic/move_base_swp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/UbiquityRobotics-release/move_basic-release",
+        "revisions": [
+            "release/noetic/move_basic/0.4.2-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_calibration",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/JeroenDM/moveit_opw_kinematics_plugin",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/mikeferguson/moveit_python",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_resources",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/moveit_sim_controller",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_task_constructor",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/moveit_visual_tools",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/peci1/movie_publisher",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/MOLAorg/mp2p_icp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/rst-tu-dortmund/mpc_local_planner",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/groove-x/mqtt_bridge",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ika-rwth-aachen/mqtt_client",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt/mrpt",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/mrpt_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/mrpt_navigation",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/MRPT/mrpt_path_planning",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/mrpt_sensors",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/mrpt_slam",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/KIT-MRT/mrt_cmake_modules",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/praveen-palanisamy/multiple-object-tracking-lidar",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/carnegierobotics/multisense_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ual-arm-ros-pkg/mvsim",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/ros-naoqi/nao_meshes-release",
+        "revisions": [
+            "release/noetic/nao_meshes/0.1.13-0"
+        ]
+    },
+    {
+        "repository": "github.com/ros-naoqi/naoqi_bridge_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-naoqi/naoqi_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-naoqi/libqi",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-naoqi/libqicore",
+        "revisions": [
+            "ros"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/navigation",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/skasperski/navigation_2d",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/navigation_experimental",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/navigation_msgs",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/TUC-ProAut/ros_nearfield_map",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/neobotix/neo_local_planner",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/at-wat/neonavigation",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/at-wat/neonavigation_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/at-wat/neonavigation_rviz_plugins",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/nerian-vision/nerian_stereo",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/astuff/network_interface",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/nmea_comms",
+        "revisions": [
+            "jade-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/nmea_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/nmea_navsat_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/nodelet_core",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/SteveMacenski/nonpersistent_voxel_layer",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/novatel_gps_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/novatel/novatel_oem7_driver",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/vooon/ntpd_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/LORD-MicroStrain/ntrip_client",
+        "revisions": [
+            "ros"
+        ]
+    },
+    {
+        "repository": "github.com/wg-perception/object_recognition_msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap_mapping",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap_msgs",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/TUC-ProAut/ros_octomap",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap_ros",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/OctoMap/octomap_rviz_plugins",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/odva_ethernetip",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/UbiquityRobotics/oled_display_node",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-gbp/ompl-release",
+        "revisions": [
+            "release/noetic/ompl/1.6.0-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/omron",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/open_karto",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/open_manipulator_msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/open_manipulator_p_simulations",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/open_manipulator_simulations",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-geographic-info/open_street_map",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/rpng/open_vins",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/opencv_apps",
+        "revisions": [
+            "indigo"
+        ]
+    },
+    {
+        "repository": "github.com/fkanehiro/openhrp3",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/openni2_camera",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/openni_camera",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/tork-a/openrtm_aist-release",
+        "revisions": [
+            "release/melodic/openrtm_aist"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/openslam_gmapping",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/lpresearch/openzenros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/Jmeyer1292/opw_kinematics",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tier4/osqp_vendor",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "gitlab.com/outsight-public/outsight-drivers/outsight_alb_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/DataspeedInc/oxford_gps_eth",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/allenh1/p2os",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/eclipse/paho.mqtt.c",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/eclipse/paho.mqtt.cpp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/pal-robotics/pal_statistics",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/panda_moveit_config",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tuc-proaut/ros_parameter",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_ROS_passthrough_controllers",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/tuc-proaut/ros_pcdfilter",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/pcl_msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/wg-perception/people",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-naoqi/pepper_meshes-release",
+        "revisions": [
+            "release/noetic/pepper_meshes/0.2.5-0"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/perception_pcl",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PepperlFuchs/pf_lidar_ros_driver",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/phidgets_drivers",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/reinzor/picovoice_ros",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/AndyZe/pid",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/PilzDE/pilz_common",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PilzDE/pilz_industrial_motion",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PilzDE/pilz_robots",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/fictionlab/pincher_arm",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/pinocchio",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/facontidavide/PlotJuggler",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/facontidavide/plotjuggler_msgs",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/PlotJuggler/plotjuggler-ros-plugins",
+        "revisions": [
+            "development"
+        ]
+    },
+    {
+        "repository": "github.com/ros/pluginlib",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ADVRHumanoids/point_cloud2_filters",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/point_cloud_color",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/point_cloud_transport",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/point_cloud_transport_plugins",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/pointcloud_to_laserscan",
+        "revisions": [
+            "lunar-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/pointgrey_camera_driver",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/mrpt-ros-pkg/pose_cov_ops",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/fetchrobotics/power_msgs",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/pr2_apps",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/pr2_common",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/pr2_common_actions",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/pr2_controllers",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/pr2_ethercat_drivers",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PR2/pr2_gripper_sensor",
+        "revisions": [
+            "hydro-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/pr2_kinematics",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/pr2_mechanism",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/pr2_mechanism_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/PR2/pr2_navigation",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/pr2_power_drivers",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/pr2_robot",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PR2/pr2_self_test",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PR2/pr2_simulator",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PilzDE/prbt_grippers",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/prosilica_driver",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/prosilica_gige_sdk",
+        "revisions": [
+            "hydro-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PilzDE/psen_scan_v2",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees",
+        "revisions": [
+            "release/0.7.x"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees_msgs",
+        "revisions": [
+            "release/0.3.x"
+        ]
+    },
+    {
+        "repository": "github.com/splintered-reality/py_trees_ros",
+        "revisions": [
+            "release/0.6.x"
+        ]
+    },
+    {
+        "repository": "github.com/wxmerkt/pybind11_catkin",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros4hri/pyhri",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/Achllle/pyquaternion",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/python_qt_binding",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/qbrobotics/qbchain-ros",
+        "revisions": [
+            "production-noetic"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/qbrobotics/qbdevice-ros",
+        "revisions": [
+            "production-melodic"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/qbrobotics/qbhand-ros",
+        "revisions": [
+            "production-noetic"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/qbrobotics/qbmove-ros",
+        "revisions": [
+            "production-noetic"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/qbrobotics/qbshin-ros",
+        "revisions": [
+            "production-noetic"
+        ]
+    },
+    {
+        "repository": "github.com/autoware-ai/qpoases_vendor",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/githubuser0xFFFF/Qt-Advanced-Docking-System",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/qt_gui_core",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/QuanergySystems/quanergy_client-release",
+        "revisions": [
+            "release/noetic/quanergy_client/5.0.0-1"
+        ]
+    },
+    {
+        "repository": "github.com/QuanergySystems/quanergy_client_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/qwt_dependency",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/radar_msgs",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/TUC-ProAut/ros_radar",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/random_numbers",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/NewEagleRaptor/raptor-dbw-ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ENSTABretagneRobotics/razor_imu_9dof",
+        "revisions": [
+            "indigo-devel"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_common_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_dynamics_api",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_genicam_api",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_genicam_camera",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_genicam_driver_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_reason_clients_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rc_visard_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/roboception/rcdiscover",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/reach",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/reach_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/IntelRealSense/realsense-ros",
+        "revisions": [
+            "development"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/realtime_tools",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/yoshito-n-students/remote_rosbag_record",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/resource_retriever",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/rgbd_launch",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ridgeback/ridgeback",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ridgeback/ridgeback_desktop",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ridgeback/ridgeback_simulator",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/rm-controls/rm_control",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/rm-controls/rm_controllers",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/rm-controls/rm_description",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/peci1/robot_body_filter",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/mikeferguson/robot_calibration",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/fetchrobotics/robot_controllers",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/cra-ros-pkg/robot_localization",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/locusrobotics/robot_navigation",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/robot_pose_ekf",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/robot_self_filter",
+        "revisions": [
+            "indigo-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/robot_state_publisher",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/robot_upstart",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/roboticsgroup/roboticsgroup_upatras_gazebo_plugins",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/robotis_manipulator",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/robotont/robotont_description",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/robotont-release/robotont_gazebo-release",
+        "revisions": [
+            "release/noetic/robotont_gazebo/0.0.2-2"
+        ]
+    },
+    {
+        "repository": "github.com/robotont-release/robotont_msgs-release",
+        "revisions": [
+            "release/noetic/robotont_msgs/0.0.2-2"
+        ]
+    },
+    {
+        "repository": "github.com/robotont-release/robotont_nuc_description-release",
+        "revisions": [
+            "release/noetic/robotont_nuc_description/0.0.2-1"
+        ]
+    },
+    {
+        "repository": "github.com/robotraconteur/robotraconteur",
+        "revisions": [
+            "ros-noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ros",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/inorbit-ai/ros_amr_interop-release",
+        "revisions": [
+            "release/noetic/massrobotics_amr_sender/1.0.1-1"
+        ]
+    },
+    {
+        "repository": "github.com/StefanFabian/ros_babel_fish",
+        "revisions": [
+            "kinetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/ros_canopen",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ros_comm",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ros_comm_msgs",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/ros_control",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/ros_control_boilerplate",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/ros_controllers",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_ROS_controllers_cartesian",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/code-iai/ros_emacs_utils",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ros_environment",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/shadow-robot/ros_ethercat_eml",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ignitionrobotics/ros_ign",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/ros_industrial_cmake_boilerplate",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/inorbit-ai/ros_inorbit_samples",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/CopterExpress/ros_led",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/eric-wieser/ros_numpy",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/machinekoder/ros_pytest",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ros_realtime",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/ros_tutorials",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/facontidavide/ros_type_introspection",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/gt-rail-release/rosauth-release",
+        "revisions": [
+            "release/noetic/rosauth/1.0.1-1"
+        ]
+    },
+    {
+        "repository": "github.com/xqms/rosbag_fancy",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/rosbag_migration_rule",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/eurogroep/rosbag_pandas-release",
+        "revisions": [
+            "release/noetic/rosbag_pandas/0.5.4-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros/rosbag_snapshot",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/peci1/rosbash_params",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/RobotWebTools/rosbridge_suite",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/DLu/roscompile",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros/rosconsole",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/rosconsole_bridge",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/roscpp_core",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-infrastructure/rosdoc_lite",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/aislabunimi/ROSE2",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ADVRHumanoids/rosee_msg",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/xqms/rosfmt",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/roslint",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/roslisp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/roslisp_common",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/xqms/rosmon",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/rosmsg_cpp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/rospack",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/rosparam_shortcuts",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/rospilot/rospilot",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/DFKI-NI/rospy_message_converter",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/rosserial",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tork-a/roswww",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/Slamtec/rplidar_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_action",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_bag",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_common_plugins",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_console",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_dep",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/OTL/rqt_ez_publisher",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_graph",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros4hri/rqt_human_radar",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_image_view",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_launch",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_logger_level",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_moveit",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_msg",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/anybotics/rqt_multiplot_plugin-release",
+        "revisions": [
+            "release/noetic/rqt_multiplot/0.0.12-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_nav_view",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_plot",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_pose_view",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/rqt_pr2_dashboard",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_publisher",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_py_console",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/rqt_py_trees",
+        "revisions": [
+            "release/0.4.x"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_reconfigure",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_robot_dashboard",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_robot_monitor",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_robot_plugins",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_robot_steering",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_runtime_monitor",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_rviz",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_service_caller",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_shell",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_srv",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_tf_tree",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_top",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_topic",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rqt_web",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/RoboSense-LiDAR/rslidar_sdk",
+        "revisions": [
+            "dev"
+        ]
+    },
+    {
+        "repository": "github.com/rt-net/rt_usb_9axisimu_driver",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/introlab/rtabmap",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/introlab/rtabmap_ros",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tilk/rtcm_msgs",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/pantor/ruckig",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rviz",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/rviz_animated_view_controller",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/nobleo/rviz_robot_description_topic",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/nobleo/rviz_satellite",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial-release/rviz_tool_cursor",
+        "revisions": [
+            "release/noetic/rviz_tool_cursor/1.0.1-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial-release/rviz_tool_path_display-release",
+        "revisions": [
+            "release/noetic/rviz_tool_path_display/0.1.1-1"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/rviz_visual_tools",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/nobleo/rx_service_tools",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/DataspeedInc/sainsmart_relay_usb",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/SBG-Systems/sbg_ros_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-gbp/sbpl-release",
+        "revisions": [
+            "release/noetic/sbpl/1.3.1-3"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_ROS_scaled_controllers",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/CCNYRoboticsLab/scan_tools",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/ipa320/schunk_modular_robotics",
+        "revisions": [
+            "kinetic_dev"
+        ]
+    },
+    {
+        "repository": "github.com/SCHUNK-GmbH-Co-KG/schunk_svh_library",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/SCHUNK-GmbH-Co-KG/schunk_svh_ros_driver",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ipab-slmc/SDHLibrary-CPP",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/sensor_filters",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/septentrio-gnss/septentrio_gnss_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/wjwwood/serial",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/SICKAG/sick_ldmrs_laser",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/SICKAG/sick_safetyscanners",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/SICKAG/sick_scan",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/uos/sick_tim",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/mikeferguson/simple_grasping",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/ntt-t3/skyway_for_ros",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/slam_gmapping",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/slam_karto",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/SteveMacenski/slam_toolbox",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/oKermorgant/slider_publisher",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/robosoft-ai/smacc",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ctu-vras/snmp_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/PickNikRobotics/snowbot_operating_system",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/dorezyuk/sob_layer",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/mgruhler/soem",
+        "revisions": [
+            "melodic"
+        ]
+    },
+    {
+        "repository": "github.com/stonier/sophus",
+        "revisions": [
+            "release/1.1.x"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/sot-core",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/sot-dynamic-pinocchio",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/sot-tools",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/sparse_bundle_adjustment",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/SteveMacenski/spatio_temporal_voxel_layer",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/shadow-robot/sr_hand_detector",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/srdfdom",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/usrl-uofsc/stag_ros",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-gbp/stage-release",
+        "revisions": [
+            "release/noetic/stage"
+        ]
+    },
+    {
+        "repository": "github.com/ros-simulation/stage_ros",
+        "revisions": [
+            "lunar-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tradr-project/static_transform_mux",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/std_msgs",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/hbanzhaf/steering_functions",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/swri_console",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/swri-robotics/swri_profiler",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/MetroRobots/ros_system_fingerprint",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/taskflow/taskflow",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/rst-tu-dortmund/teb_local_planner",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/SoftServeSAG/teleop_legged_robots",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/teleop_tools",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/teleop_twist_joy",
+        "revisions": [
+            "indigo-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/teleop_twist_keyboard",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tradr-project/tensorflow_ros_cpp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial-consortium/tesseract",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/locusrobotics/tf2_2d",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/tpet/tf2_client",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/peci1/tf2_server",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/RobotWebTools/tf2_web_republisher",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tradr-project/tf_remapper_cpp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ThundeRatz/thunder_line_follower_pmr3100",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/traclabs/trac_ik",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/stack-of-tasks/tsid",
+        "revisions": [
+            "devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/turtlebot3",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/turtlebot3_autorace_2020",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/turtlebot3_msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ROBOTIS-GIT/turtlebot3_simulations",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/tuw-robotics/tuw_geometry",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/tuw-robotics/tuw_msgs",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/tuw-robotics/tuw_multi_robot",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/twist_mux",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-teleop/twist_mux_msgs",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/InnopolisAero/uavcan_communicator",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/UbiquityRobotics/ubiquity_motor",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/KumarRobotics/ublox",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/peci1/ubnt_airos_tools",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/continental/udp_com",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/anqixu/ueye_cam",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/um6",
+        "revisions": [
+            "indigo-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/um7",
+        "revisions": [
+            "indigo-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-geographic-info/unique_identifier-release",
+        "revisions": [
+            "release/noetic/unique_id/1.0.6-1",
+            "release/noetic/unique_identifier/1.0.6-1",
+            "release/noetic/uuid_msgs/1.0.6-1"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/universal_robot",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_Client_Library",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-industrial/ur_msgs",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/UniversalRobots/Universal_Robots_ROS_Driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdf",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-controls/urdf_geometry_parser",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdf_sim_tutorial",
+        "revisions": [
+            "ros1"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdf_tutorial",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros/urdf_parser_py",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/urg_c",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/urg_node",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/seqsense/urg_stamped",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/usb_cam",
+        "revisions": [
+            "develop"
+        ]
+    },
+    {
+        "repository": "github.com/yoshito-n-students/usb_cam_hardware",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/anybotics/variant-release",
+        "revisions": [
+            "release/noetic/variant/0.1.6-1",
+            "release/noetic/variant_msgs/0.1.6-1",
+            "release/noetic/variant_topic_tools/0.1.6-1"
+        ]
+    },
+    {
+        "repository": "github.com/tum-fml/ros_vda5050_connector",
+        "revisions": [
+            "current_ros_noetic"
+        ]
+    },
+    {
+        "repository": "github.com/beltransen/velo2cam_calibration",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/beltransen/velo2cam_gazebo",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/velodyne",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "bitbucket.org/DataspeedInc/velodyne_simulator",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/video_stream_opencv",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/view_controller_msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/Kukanani/vision_msgs",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-perception/vision_opencv",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/lagadic/vision_visp",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/lagadic/visp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/tork-a/visualization_rwt",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/visualization_tutorials",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/MoffKalast/vizanti",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/okalachev/vl53l1x_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/botsync/volta",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/vrpn/vrpn",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/vrpn_client_ros",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/warehouse_ros",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/warehouse_ros_mongo",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-planning/warehouse_ros_sqlite",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/warthog-cpr/warthog",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/warthog-cpr/warthog_desktop",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/warthog-cpr/warthog_simulator",
+        "revisions": [
+            "melodic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/RobotWebTools/web_video_server",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-visualization/webkit_dependency",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/cyberbotics/webots_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/wge100_driver",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/wifi_ddwrt",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/pr2/willow_maps",
+        "revisions": [
+            "kinetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/clearpathrobotics/wireless",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/ElettraSciComp/witmotion_IMU_ros",
+        "revisions": [
+            "main"
+        ]
+    },
+    {
+        "repository": "github.com/DLu/wu_ros_tools",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros/xacro",
+        "revisions": [
+            "noetic-devel"
+        ]
+    },
+    {
+        "repository": "github.com/leggedrobotics/xpp",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/nobleo/xsens_mti_driver",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/rohbotics/xv_11_laser_driver-release",
+        "revisions": [
+            "release/noetic/xv_11_laser_driver/0.3.0-1"
+        ]
+    },
+    {
+        "repository": "github.com/openspur/yp-spur",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/openspur/ypspur_ros",
+        "revisions": [
+            "master"
+        ]
+    },
+    {
+        "repository": "github.com/fada-catec/z_laser_projector",
+        "revisions": [
+            "noetic"
+        ]
+    },
+    {
+        "repository": "github.com/ros-drivers/zbar_ros",
+        "revisions": [
+            "melodic-devel"
+        ]
+    }
+]

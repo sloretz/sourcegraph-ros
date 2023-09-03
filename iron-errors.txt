@@ -1,41 +1,3 @@
-# sourcegraph-ros
-Tools for creating search contexts to search ROS code on sourcegraph.com
-
-## Plan
-
-I want to search released ROS source code.
-
-ros/rosdistro --> ?magic here? --> sourcegraph search context
-
-* `ROS-Rolling-development`: All source entries in ROS Rolling
-
-It's a JSON list of repositories and revisions
-
-```json
-[
-  {
-    "repository": "github.com/ros2/rclcpp",
-    "revisions": ["rolling"]
-  },
-  ...
-]
-```
-
-Reading ros/rosdistro - could use https://github.com/ros-infrastructure/rosdistro , but it takes me a while to relearn it's API :(
-
-
-Testing:
-```
-pipenv install --dev .
-pipenv shell
-```
-
-## Issues
-
-Lots of repositories aren't indexed in the public sourcegraph instance :(
-Some of these are caused by repository renaming (Fast-RTPS -> Fast-DDS is one example).
-
-```
     Cannot find github.com/robosoft-ai/SMACC2 repository.
     Cannot find gitlab.com/autowarefoundation/autoware.auto/acado_vendor repository.
     Cannot find github.com/rudislabs/actuator_msgs repository.
@@ -48,15 +10,13 @@ Some of these are caused by repository renaming (Fast-RTPS -> Fast-DDS is one ex
     Cannot find github.com/wep21/aws_sdk_cpp_vendor repository.
     Cannot find github.com/wep21/bag2_to_image repository.
     Cannot find github.com/OUXT-Polaris/boost_geometry_util repository.
-    Cannot find github.com/tesseract-robotics/boost_plugin_loader repository.
     Cannot find github.com/ngmor/catch_ros2 repository.
     Cannot find github.com/OUXT-Polaris/color_names-release repository.
     Cannot find github.com/MetroRobots/color_util repository.
     Cannot find github.com/tier4/cudnn_cmake_module repository.
+    Cannot find github.com/luxonis/depthai-ros repository.
     Cannot find github.com/ros2/domain_bridge repository.
     Cannot find github.com/dynamixel-community/dynamixel_hardware repository.
-    Cannot find github.com/ros-event-camera/event_camera_codecs repository.
-    Cannot find github.com/ros-event-camera/event_camera_renderer repository.
     Cannot find github.com/flexbe/flexbe_behavior_engine repository.
     Cannot find github.com/ForteFibre/FluentRviz repository.
     Cannot find github.com/boschresearch/fmilibrary_vendor repository.
@@ -94,6 +54,7 @@ Some of these are caused by repository renaming (Fast-RTPS -> Fast-DDS is one ex
     Cannot find github.com/gstavrinos/odom_to_tf_ros2 repository.
     Cannot find github.com/ros2-gbp/ompl-release repository.
     Cannot find github.com/hatchbed/opensw_ros repository.
+    Cannot find github.com/ouster-lidar/ouster-ros.wiki repository.
     Cannot find github.com/OUXT-Polaris/ouxt_common repository.
     Cannot find github.com/ros-perception/perception_open3d repository.
     Cannot find github.com/ros2-gbp/picknik_ament_copyright-release repository.
@@ -107,7 +68,6 @@ Some of these are caused by repository renaming (Fast-RTPS -> Fast-DDS is one ex
     Cannot find github.com/roboception/rc_dynamics_api repository.
     Cannot find github.com/roboception/rc_reason_clients_ros2 repository.
     Cannot find github.com/ros-sports/rcss3d_agent repository.
-    Cannot find github.com/ros-industrial/reach_ros2 repository.
     Cannot find github.com/open-rmf/rmf_building_map_msgs repository.
     Cannot find github.com/open-rmf/rmf_cmake_uncrustify repository.
     Cannot find github.com/open-rmf/rmf_demos repository.
@@ -116,7 +76,6 @@ Some of these are caused by repository renaming (Fast-RTPS -> Fast-DDS is one ex
     Cannot find github.com/open-rmf/rmf_variants repository.
     Cannot find github.com/ros2/rmw_connextdds repository.
     Cannot find github.com/Kinovarobotics/ros2_kortex repository.
-    Cannot find github.com/SteveMacenski/ros2_ouster_drivers repository.
     Cannot find github.com/PickNikRobotics/ros2_robotiq_gripper repository.
     Cannot find github.com/autowarefoundation/ros2_socketcan repository.
     Cannot find github.com/ros-sports/ros_image_to_qimage repository.
@@ -135,7 +94,7 @@ Some of these are caused by repository renaming (Fast-RTPS -> Fast-DDS is one ex
     Cannot find github.com/pantor/ruckig repository.
     Cannot find github.com/teamspatzenhirn/rviz_2d_overlay_plugins repository.
     Cannot find github.com/septentrio-gnss/septentrio_gnss_driver repository.
-    Cannot find github.com/oKermorgant/simple_launch repository.
+    Cannot find github.com/SICKAG/sick_safetyscanners2 repository.
     Cannot find github.com/PickNikRobotics/snowbot_operating_system repository.
     Cannot find github.com/ros-sports/soccer_interfaces repository.
     Cannot find github.com/ijnek/soccer_object_msgs repository.
@@ -167,4 +126,3 @@ Some of these are caused by repository renaming (Fast-RTPS -> Fast-DDS is one ex
     Cannot find github.com/ros-planning/warehouse_ros_sqlite repository.
     Cannot find github.com/eclipse-zenoh/zenoh-plugin-dds repository.
     Cannot find github.com/tier4/zmqpp_vendor repository.
-```
